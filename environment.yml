@@ -12,12 +12,22 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
   - pip
   - pip:
-    - plotly
-    - scikit-learn
-    - pandas
     - matplotlib
-    - numpy
+    - scikit-learn
+    - statsmodels
+    - seaborn
+
+    
     
     
